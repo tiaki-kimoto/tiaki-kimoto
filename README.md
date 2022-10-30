@@ -1,6 +1,6 @@
-- 👋👩 Hi, I’m @tiaki-kimoto, 26yo, from Brazil
+- 👋👩 Hi, I’m @tiaki-kimoto, 27yo, from Brazil
 - 👀💜 I like music, cute animals and coffee
-- 🌱📚 I’m currently learning python and looking for a change of carreer
+- 🌱📚 I’m currently learning SQL, python, and Power BI, and looking for a change of carreer
 - 📫📱 You can reach me via Instagram (@tiaki_k)
 
 <!---
